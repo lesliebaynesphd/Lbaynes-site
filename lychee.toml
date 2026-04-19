@@ -25,7 +25,7 @@ exclude = [
 
 exclude_path = [
   "node_modules",
-  "dist",
   ".astro",
   ".github",
+  "src",
 ]
