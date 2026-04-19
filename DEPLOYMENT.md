@@ -9,7 +9,7 @@ Estimated total time: **90–120 minutes of active work**, spread across session
 ## Before you start — confirm prerequisites
 
 - ✅ Domain transfer from GoDaddy → Cloudflare initiated (or complete)
-- ✅ GitHub account at `lesliebaynesphd`
+- ✅ GitHub account at `tbaynes`
 - ✅ GitHub repo `lbaynes-site` created, public, with a README
 - ✅ Netlify account (signed in via GitHub)
 - ✅ Node.js 20+ installed locally (`node --version` should say v20 or higher)
@@ -72,7 +72,7 @@ git commit -m "Initial commit — complete site scaffold"
 
 ```bash
 git branch -M main
-git remote add origin https://github.com/lesliebaynesphd/lbaynes-site.git
+git remote add origin https://github.com/tbaynes/lbaynes-site.git
 git push -u origin main
 ```
 
